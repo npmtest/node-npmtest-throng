@@ -1,4 +1,7 @@
-# test coverage for  [throng (v4.0.0)](https://github.com/hunterloftis/throng)  [![npm package](https://img.shields.io/npm/v/npmtest-throng.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-throng) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-throng.svg)](https://travis-ci.org/npmtest/node-npmtest-throng)
+# npmtest-throng
+
+#### basic test coverage for  [throng (v4.0.0)](https://github.com/hunterloftis/throng)  [![npm package](https://img.shields.io/npm/v/npmtest-throng.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-throng) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-throng.svg)](https://travis-ci.org/npmtest/node-npmtest-throng)
+
 #### A simple worker-manager for clustered apps
 
 [![NPM](https://nodei.co/npm/throng.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/throng)
